@@ -1,0 +1,64 @@
+h1
+{
+	text-align: center;
+	color: darkslategray;
+	background-color:powderblue;
+	border-color:darkblue;
+	letter-spacing: 3px;
+	padding: 50px;
+	font-family: Verdana, Arial, sans-serif;
+	border-style: solid;
+	border-width: 1px;
+	background-image: url("crissxcross.png");
+}
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	color: darkslategray;
+}
+.image {
+	clip-path: circle(50% at 50% 50%);
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: .9;
+}
+
+.contact {
+	border-style: double;
+	background-color: lavender;
+	text-align: center;
+	color: darkslategray;
+}
+
+h2 {
+	font-family: Verdana, Arial, sans-serif;
+	color: black;
+	background-color: lavender;
+	padding: 15px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+}
+
+ul {
+	list-style-image: url("icon-flowers-7.png");
+}
+
+h3 {
+	text-decoration: underline;
+	color: black;
+}
+
+a:link {
+	color: indianred;
+}
+
+a:visited {
+	color: blueviolet;
+}
+
+a:hover {
+	color: deepskyblue;
+}
